@@ -1,6 +1,6 @@
 ## List of posts
 <ul>
     <li>
-        {% link _posts/2022-08-07-indexes-introduction.md %}
+        <a href="/2022/08/07/indexes-introduction.html">Indexes introduction</a>
     </li>
 </ul>
