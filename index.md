@@ -2,9 +2,7 @@
 
 ## List of posts
 <ul>
-  {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+        {% post_url 2022-08-07-indexes-introduction %}
     </li>
-  {% endfor %}
 </ul>
