@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minima
+title: keep coding
+author: Bartek
+description: another blog about programming
