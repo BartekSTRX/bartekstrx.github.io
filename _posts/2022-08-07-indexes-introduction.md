@@ -1,6 +1,8 @@
 ---
+layout: post
 title: "Database indexes - introduction"
 date: 2022-08-07
+categories: indexes
 ---
 
 
