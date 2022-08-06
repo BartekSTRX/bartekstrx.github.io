@@ -1,3 +1,8 @@
+---
+layout: page
+title: "My little blog"
+---
+
 ## List of posts
 <ul>
     <li>
