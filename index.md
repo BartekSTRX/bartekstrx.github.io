@@ -7,5 +7,7 @@ title: "My little blog"
 <ul>
     <li>
         <a href="/2022/08/07/indexes-introduction.html">Indexes introduction</a>
+
+        {% post_url 2022-08-07-indexes-introduction %}
     </li>
 </ul>
