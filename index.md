@@ -11,3 +11,11 @@ title: "My little blog"
         {% post_url 2022-08-07-indexes-introduction %}
     </li>
 </ul>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
