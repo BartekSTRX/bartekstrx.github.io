@@ -28,7 +28,7 @@ The results of that are that:
 ## Page Split
 Let's consider the following example. We have an index on a column of type int. The physical order and the logical order of pages are the same, so fragmentation is 0%. All data pages are filled with entries, therefore page fullness is 100%. 
 
-Since this is a nonclustered index, entries in leaf pages contain addresses of nodes in the clustered index. For clarity, only some nodes of the index tree are shown. 
+Since this is a nonclustered index, entries in leaf pages contain addresses of nodes in the clustered index. For readability, only some nodes of the index tree are shown. 
 ![Index before a page split](/assets/images/2022-08-10/page-split1.png)
 
 
