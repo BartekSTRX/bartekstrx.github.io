@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fill factor "
+title: "Fill factor"
 date: 2022-08-19
 ---
 
